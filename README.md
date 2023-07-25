@@ -1,1 +1,3 @@
-# FlappyBird
+# Flappy Bird
+![image](https://github.com/Gaby030300/FlappyBird/assets/44000056/be1727b7-0c5c-4c7b-a822-ed84c64eaf43)
+This project was created as a pre-jam activity for The National University of Colombia. The aim of this initiative was to prepare and engage participants in the upcoming jam event. Through collaborative efforts and creative problem-solving, we set out to explore innovative ideas and build a strong foundation for the main event. This pre-jam project served as an opportunity to foster teamwork, inspire innovation, and ignite excitement among the participants, laying the groundwork for a successful and rewarding jam experience at The National University of Colombia.
